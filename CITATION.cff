@@ -1,11 +1,21 @@
 cff-version: 1.2.0
-message: "If you use this toolkit please cite it as shown below."
+message: "If you use this toolkit please cite it as indicated."
 title: "Balance in Place Toolkit — Five Elements for CPTED (Balance Toolkit)"
 version: "v0.1"
+abstract: "A practitioner-ready toolkit that operationalises Feng Shui (Five Elements) into CPTED indicators, QGIS quick-steps, 15-minute tally templates, and an SLA to convert pilots into municipal procurement."
 authors:
-  - family-names: "[Dai]"
-    given-names: "[Yingdi]"
+  - family-names: "Dai"
+    given-names: "Yingdi"
     affiliation: "Politecnico di Milano"
-date-released: "2025-09-01"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # optional; remove if you don't have one
+date-released: "2025-8-30"
 doi: "10.xxxx/zenodo.xxxxxx"
+url: "https://github.com/YOUR_USERNAME/balance-in-place-toolkit"
+keywords:
+  - CPTED
+  - Feng Shui
+  - Five Elements
+  - toolkit
+  - QGIS
+  - SLA
 license: "CC-BY-4.0"
