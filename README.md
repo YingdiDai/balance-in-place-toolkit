@@ -64,7 +64,7 @@ See `HOWTO.md` for step-by-step commands.
 (See `LICENSES/` for full texts.)
 
 ---
-## AUTHORITATIVE CITATION
+## Authoritative citation
 Dai, Yingdi. (2025). Balance in Place Toolkit — Five Elements for CPTED (Balance Toolkit) v0.1. Zenodo. https://doi.org/10.xxxx/zenodo.xxxxxx
 
 
