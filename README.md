@@ -18,7 +18,7 @@ Dai, Yingdi (2025). *Balance in Place Toolkit — Five Elements for CPTED (Balan
 
 ---
 
-## What’s included (quick file map)
+## What’s included 
 - `README.md` — this file.  
 - `Balance_in_Place_Toolkit_v0.1.zip` — release bundle.  
 - `Operationalising_FengShui_Manuscript.docx` / `.pdf` — practice article.  
