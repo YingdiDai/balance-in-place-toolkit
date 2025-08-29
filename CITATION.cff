@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this toolkit please cite it as shown below."
+title: "Balance in Place Toolkit — Five Elements for CPTED (Balance Toolkit)"
+version: "v0.1"
+authors:
+  - family-names: "[Dai]"
+    given-names: "[Yingdi]"
+    affiliation: "Politecnico di Milano"
+date-released: "2025-09-01"
+doi: "10.xxxx/zenodo.xxxxxx"
+license: "CC-BY-4.0"
