@@ -21,14 +21,13 @@ Dai, Yingdi (2025). *Balance in Place Toolkit — Five Elements for CPTED (Balan
 ## What’s included 
 - `README.md` — this file.  
 - `Balance_in_Place_Toolkit_v0.1.zip` — release bundle.  
-- `Operationalising_FengShui_Manuscript.docx` / `.pdf` — practice article.  
-- `scampia_toolkit_appendix.pdf` — one-page CPTED audit checklist.  
-- `operationalisation_matrix.pdf` / `.docx` — Five Elements → Indicators → Moves → SLA.  
+- `Balance_in_Place_Manuscript.docx` / `.pdf` — practice article.  
+- `Toolkit_appendix.pdf` — one-page CPTED audit checklist.  
+- `Operationalisation_matrix.pdf` / `.docx` — Five Elements → Indicators → Moves → SLA.  
 - `SLA_template.pdf` / `.docx` — one-page SLA template.  
 - `templates/` — `tally_template.csv`, `intercept_template.csv`, `scoring_rubric.xlsx`.  
-- `qgis/` — `scampia_qgis_project.qgz` (or instructions to obtain base layers).  
 - `figures/` — operational matrix PNG, annotated map PNG.  
-- `references_apa.pdf` and `references.bib`.  
+- `references_apa.pdf`. 
 - `HOWTO.md`, `CHANGELOG.md`, `LICENSES/`.
 
 ---
