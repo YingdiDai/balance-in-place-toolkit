@@ -9,7 +9,7 @@ authors:
     affiliation: "Politecnico di Milano"
     orcid: "https://orcid.org/0009-0001-0704-9304"   # optional; remove if you don't have one
 date-released: "2025-8-30"
-doi: "10.5281/zenodo.17011560"
+doi: "10.5281/zenodo.17011561"
 url: "https://github.com/YingdiDai/balance-in-place-toolkit"
 keywords:
   - CPTED
