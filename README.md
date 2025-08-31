@@ -10,11 +10,11 @@ A municipal-ready set of templates, QGIS steps, monitoring CSVs, a one-page audi
 ## Short description
 This toolkit translates Five Elements / Feng Shui heuristics into measurable GIS indicators and step-by-step protocols for low-cost, reversible interventions (planters, lighting, seating, drainage). It is designed for municipal officers, NGOs, urban designers, and students to run 1-week pilots, collect simple KPIs, and make defensible Keep/Move/Remove decisions using an SLA-driven approach. For the following files, the toolkit takes Scampia, Naples, Italy, as an example.
 
-**This release:** v0.1 — initial public release (pilot-informed).  
-**DOI / Citation:** `DOI:10.xxxx/zenodo.xxxxxx` (replace with minted DOI).
+**This release:** v0.1 — initial public release .  
+**DOI / Citation:** `DOI:10.5281/zenodo.17011560` .
 
 **Suggested citation**  
-Dai, Yingdi (2025). *Balance in Place Toolkit — Five Elements for CPTED (Balance Toolkit) v0.1.* Zenodo. DOI:10.xxxx/zenodo.xxxxxx
+Dai, Yingdi (2025). *Balance in Place Toolkit — Five Elements for CPTED (Balance Toolkit) v0.1.* Zenodo. DOI:10.5281/zenodo.17011560
 
 ---
 
@@ -65,7 +65,7 @@ See `HOWTO.md` for step-by-step commands.
 
 ---
 ## Authoritative citation
-Dai, Yingdi. (2025). Balance in Place Toolkit — Five Elements for CPTED (Balance Toolkit) v0.1. Zenodo. https://doi.org/10.xxxx/zenodo.xxxxxx
+Dai, Yingdi. (2025). Balance in Place Toolkit — Five Elements for CPTED (Balance Toolkit) v0.1. Zenodo. https://doi.org/10.5281/zenodo.17011561
 
 
 ## How to contribute / report issues
@@ -77,4 +77,4 @@ Dai, Yingdi. (2025). Balance in Place Toolkit — Five Elements for CPTED (Balan
 ## References
 See `references_apa.pdf` for the toolkit bibliography (key readings: Cozens & Love 2015; Tzoulas et al. 2007; Hong et al. 2007).
 
-_Last updated: 2025-8-30_
+_Last updated: 2025-8-31_
