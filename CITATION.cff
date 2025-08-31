@@ -7,10 +7,10 @@ authors:
   - family-names: "Dai"
     given-names: "Yingdi"
     affiliation: "Politecnico di Milano"
-    orcid: "https://orcid.org/0000-0000-0000-0000"   # optional; remove if you don't have one
+    orcid: "https://orcid.org/0009-0001-0704-9304"   # optional; remove if you don't have one
 date-released: "2025-8-30"
-doi: "10.xxxx/zenodo.xxxxxx"
-url: "https://github.com/YOUR_USERNAME/balance-in-place-toolkit"
+doi: "https://doi.org/10.5281/zenodo.17011561"
+url: "https://github.com/YingdiDai/balance-in-place-toolkit"
 keywords:
   - CPTED
   - Feng Shui
