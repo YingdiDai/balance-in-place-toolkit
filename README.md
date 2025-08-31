@@ -27,7 +27,7 @@ Dai, Yingdi (2025). *Balance in Place Toolkit — Five Elements for CPTED (Balan
 - `SLA_template.pdf` / `.docx` — one-page SLA template.  
 - `templates/` — `tally_template.csv`, `intercept_template.csv`, `scoring_rubric.xlsx`.
 - `qgis/scampia_qgis_project.qgz`.
-- `figures/` — operational matrix PNG, annotated map PNG.  
+- `figures/` — operational matrix PNG, annotated map PNG, example_sla_table PNG, workflow_pipeline PNG.  
 - `references_apa.pdf`. 
 - `HOWTO.md`, `CHANGELOG.md`, `LICENSES/`.
 
