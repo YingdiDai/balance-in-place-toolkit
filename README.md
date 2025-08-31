@@ -76,5 +76,6 @@ Dai, Yingdi. (2025). Balance in Place Toolkit — Five Elements for CPTED (Balan
 
 ## References
 See `references_apa.pdf` for the toolkit bibliography (key readings: Cozens & Love 2015; Tzoulas et al. 2007; Hong et al. 2007).
+A related conference paper emphasized service standards; this article presents a distinct method workflow and new figures.
 
 _Last updated: 2025-8-31_
