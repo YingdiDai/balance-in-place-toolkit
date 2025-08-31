@@ -59,7 +59,7 @@ See `HOWTO.md` for step-by-step commands.
 ---
 
 ## License
-- Documents & templates: **CC-BY-4.0**  
+- Documents & templates: **Creative Commons Attribution 4.0 International (CC-BY-4.0)**  
 - Code/scripts: **MIT**  
 (See `LICENSES/` for full texts.)
 
